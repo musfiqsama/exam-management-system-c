@@ -1,0 +1,6 @@
+1|C Programming|What is the correct extension of a C source file?|.cpp|.py|.c|.java|C|5|15|Because C source files are stored with the .c extension.
+2|C Programming|Which function is used to print output in C?|scanf|printf|main|return|B|5|15|printf() is used to display formatted output on the screen.
+3|C Programming|Which header file is required for printf()?|string.h|math.h|stdio.h|conio.h|C|5|15|printf() is declared in stdio.h, which handles standard input and output.
+4|C Programming|Which loop is guaranteed to execute at least once?|for|while|do-while|nested loop|C|5|15|A do-while loop checks the condition after executing the body once.
+5|C Programming|Which symbol is used to dereference a pointer?|&|*|%|#|B|5|15|The * operator is used to access the value stored at a memory address.
+6|C Programming|Which keyword is used to return a value from a function?|break|return|void|case|B|5|15|The return keyword sends a value back from a function to the caller.
